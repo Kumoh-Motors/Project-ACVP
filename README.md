@@ -8,13 +8,22 @@
 | 금동헌 | 김규성 | 김근호 | 배진우 |
 |:-------------:|:---------:|:-----:|:---------:|
 | ![job_seibishi_ase](https://github.com/user-attachments/assets/8263e99a-f0f9-45df-a0f5-83d37321e526) | ![banzai_sagyou_man2](https://github.com/user-attachments/assets/91ee621a-5197-4540-88b5-060449f1a72d) |![job_sagyouin_helmet](https://github.com/user-attachments/assets/b313568a-9479-4817-96c0-cf8d97434bee) | ![job_seibishi_helmet_man](https://github.com/user-attachments/assets/3bb245cc-86d3-475d-b560-0f1d475e6cd4) |
-| 입출력 시스템 설계 | 구동 시스템 설계 | 문서 관리 | 회로 분석 및 설계 |
+| 입출력 시스템 설계 | 구동 시스템 설계 | 문서 관리 | 회로 분석 및 설계 |  
 <br>
 
 ## 기술 스택
 | System Control | Camera Control |
 |:---------:|:------------------:|
 | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF" /> | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=FFFFFF" /> |
+
+<br>
+
+## 프로젝트 관리
+| Collaboration Tools | Project Management Tools |
+|:------------------:|:------------------------:|
+| <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/> | <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=FFFFFF"/> |
+| <img src="https://img.shields.io/badge/googlesheets-34A853?style=flat-square&logo=googlesheets&logoColor=FFFFFF"/> | |
+
 <br>
 
 ## 목차
@@ -25,6 +34,7 @@
 5. [결과 및 느낀점](#5-결과-및-느낀점)
 6. [사용 가이드](#6-사용-가이드)
 7. [활용 방안](#7-활용-방안)
+
 <br>
 
 ## 1. 주제
